@@ -1,0 +1,40 @@
+name: Project or profile suggestion
+description: Suggest a specific improvement to the profile or project overview.
+title: "[Suggestion]: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. Do not include passwords, API keys, private conversations, personal data, or sensitive security details. Suggestions are reviewed by the maintainer and are not automatically approved.
+  - type: input
+    id: area
+    attributes:
+      label: What should be improved?
+      description: Name the page, project, or profile section.
+      placeholder: e.g. project overview page
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Your suggestion
+      description: Describe the change and why it would help.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public references (optional)
+      description: Link to public information that supports this suggestion. Do not share private or sensitive material.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have not included secrets, private conversations, or sensitive personal information.
+          required: true
+        - label: I understand the maintainer will review this suggestion before any change is made.
+          required: true

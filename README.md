@@ -1,16 +1,28 @@
-## Hi there 👋
+# Corey Dimer
 
-<!--
-**coreydimer2580-dev/coreydimer2580-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developer | AI tools, automation, and developer workflows**
 
-Here are some ideas to get you started:
+I build and explore software across AI-assisted workflows, developer tools, and application development. My public projects reflect hands-on experimentation with agent workflows, Android/Kotlin, JavaScript, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [CAT Copilot](https://github.com/coreydimer2580-dev/cat-copilot) — AI-guided workflow for observing requests and organizing work into a task backlog.
+- [Ponytail](https://github.com/coreydimer2580-dev/ponytail) — An AI-agent project focused on reducing unnecessary code.
+- [Antigravity SDK for Python](https://github.com/coreydimer2580-dev/antigravity-sdk-python) — Python library for building AI agents with Google Antigravity.
+- [C@T Cyber Assistant](https://github.com/coreydimer2580-dev/c-a-t-cyberassistant) — Kotlin-based assistant project.
+- [Brains](https://github.com/coreydimer2580-dev/brains) — Kotlin project.
+
+## Areas of interest
+
+- AI agents and assisted development
+- Developer productivity and automation
+- JavaScript, Python, and Kotlin
+- Application and tooling development
+
+## Collaboration
+
+I’m interested in practical software, thoughtful experiments, and projects that make development workflows more useful. Explore the repositories above or connect through GitHub.
+
+---
+
+*This profile highlights projects and interests reflected in my public repositories.*
